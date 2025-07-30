@@ -5,29 +5,45 @@ b take as variable store value as 10
 c take as variable and denote as sum value of a and b
 Print c to see output of addition/division/multiplication/substraction one by one below
 a=5
+
 b=10
+
 c=a+b
+
 print("additon",c)
 
 a=5
+
 b=10
+
 c=a-b
+
 print("Substraction: ",c)
 
 a=5
+
 b=10
+
 c=a*b
+
 print("multiplication :",c)
 
+
 a=5
+
 b=10
+
 c=a/b
+
 print("division:" ,c)
+
 
 Task 2: Create a Personalized Greeting
 #Takes a user's first name and last name as input
 We are add first input variable for first name then add 2nd time input variable for for last name
+
 first_name = input("Enter your first name: ")
+
 last_name = input("Enter your last name: ")
 #Concatenates the first name and last name into a full name
 we declared 3rd variable for storing combine first name and last name with space
